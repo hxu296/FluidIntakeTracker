@@ -6,6 +6,7 @@ Project Members:
 - Casilda Lewis
 - Sanjana Tarigoppula
 - Harsh Thakkar
+- Huan Xu
 
   go to FluidTracker in your terminal or CommandPrompt
   type in 'npm start' and click enter
