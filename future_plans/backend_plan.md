@@ -5,24 +5,24 @@
 			- void
 		- output
 			- Number amount 						 // amount of fluid to be taken
-			- String unit 									 // measurement unit, e.g. "oz"
+			- String unit 							 // measurement unit, e.g. "oz"
 	- get_remainder_timestamps
 		- input
 			- void
 		- output
-			- Array remainder_timestamps	 // array of remainder timestamps 
+			- Array remainder_timestamps	 				 // array of remainder timestamps 
 	- parse_into_remainders
 		- input							
 			- Number amount						  	 // amount of fluid to be taken 
-			- String unit									 // measurement unit
-			- Array remainder_timestamps	 // array of remainder timestamps
+			- String unit							 // measurement unit
+			- Array remainder_timestamps	 				 // array of remainder timestamps
 		- output
-			- Array remainders						  // array of remainders
+			- Array remainders						 // array of remainders
 	- display_banner
 		- input
-			- Object remainder						  // information about the banner
+			- Object remainder						 // information about the banner
 		- output
-			- Boolean is_taken						   // true if fluid is taken, false otherwise
+			- Boolean is_taken						 // true if fluid is taken, false otherwise
 	- save_log
 		- input, output
 			- void
