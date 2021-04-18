@@ -39,7 +39,6 @@ const styles = StyleSheet.create({
   },
   switch: {},
   fluidOunces: {
-    fontFamily: "courier-regular",
     color: "#121212",
     fontSize: 20,
     marginLeft: 73,
@@ -53,7 +52,6 @@ const styles = StyleSheet.create({
   },
   switch3: {},
   mililiters: {
-    fontFamily: "courier-regular",
     color: "#121212",
     fontSize: 20,
     marginLeft: 73,
@@ -67,7 +65,6 @@ const styles = StyleSheet.create({
   },
   switch4: {},
   cups: {
-    fontFamily: "courier-regular",
     color: "#121212",
     fontSize: 20,
     marginLeft: 73,
@@ -94,7 +91,6 @@ const styles = StyleSheet.create({
     marginLeft: 117,
   },
   units: {
-    fontFamily: "courier-regular",
     color: "#121212",
     height: 22,
     width: 74,
@@ -110,7 +106,6 @@ const styles = StyleSheet.create({
     marginLeft: 95,
   },
   reminderPage: {
-    fontFamily: "courier-regular",
     color: "#2197f3",
     height: 50,
     width: "100%",
@@ -121,7 +116,6 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   loremIpsum: {
-    fontFamily: "courier-regular",
     color: "#121212",
     height: 177,
     width: 272,
